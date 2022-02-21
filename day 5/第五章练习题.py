@@ -41,3 +41,6 @@ v2 = v2.zfill(16)
 v3 = v1+v2
 v3 = int(v3,base=2)
 print(v3)
+
+
+#4、
